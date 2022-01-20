@@ -1,0 +1,12 @@
+/* create a link between 2 files = link <press enter> then in href write file path*/
+h1{
+    color: blueviolet;
+}
+#secondhead{
+    color: red;
+    background-color: paleturquoise;
+}
+body{
+    background-color: violet;
+    color: ghostwhite   ;
+}
