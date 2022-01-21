@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.navbar{
+background-color: pink;
+ display: flex;
+ justify-content: space-around;
+}
+.navbar #navlogo{
+ width: 100px;
+ padding: 5px; 
+   
+}
+.navbar ul{
+    list-style-type: none;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar ul li a{
+    padding: 10px;
+    color: green;
+    text-decoration: none;
+}
+.navbar ul li a:hover{
+    color: yellow;
+}
+
